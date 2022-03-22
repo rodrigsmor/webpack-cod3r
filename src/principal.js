@@ -1,5 +1,5 @@
 import Pessoa from './pessoa';
-import './assets/css/estilo.css';
+import './assets';
 //const Pessoa = require('./pessoa');
 
 const atendente = new Pessoa;
